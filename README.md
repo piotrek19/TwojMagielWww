@@ -1,2 +1,2 @@
 # TwojMagielWww
-Plain WWW page
+Plain WWW site created using HTML & CSS.
